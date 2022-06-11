@@ -1,0 +1,17 @@
+.rating-wrapper {
+  background: #252d37;
+  width: 350px;
+  padding: 1.5rem;
+  border-radius: 1rem;
+}
+
+.rating-wrapper h4 {
+  color: #fff;
+  font-size: 1.3rem;
+  margin-bottom: 0.2rem;
+}
+
+.rating-wrapper p {
+  color: #959eac;
+  line-height: 1.3rem;
+}
